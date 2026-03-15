@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+backend/instance/
+backend/*.db
+backend/.venv/
+app/node_modules/
+app/.expo/
